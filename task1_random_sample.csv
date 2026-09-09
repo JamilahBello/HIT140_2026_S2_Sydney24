@@ -1,0 +1,81 @@
+PlayerID,Player,Team,TeamAbbreviation,Position,Passes,PassingAccuracy,Rank
+482774,Martin Baturina,Croatia,CRO,MF,93,86,411
+431861,Rayan Cherki,France,FRA,MF,104,86,361
+402817,Paik Seungho,Korea Republic,KOR,MF,152,89,218
+448160,Luka Sucic,Croatia,CRO,MF,3,33,986
+485740,Neil El Aynaoui,Morocco,MAR,MF,433,94,17
+485760,Ayyoub Bouaddi,Morocco,MAR,MF,264,90,79
+395286,Ken Sema,Sweden,SWE,MF,3,100,986
+463128,Diego Gomez,Paraguay,PAR,MF,101,79,376
+404645,Sander Berge,Norway,NOR,MF,425,97,21
+483549,Warren Zaire Emery,France,FRA,MF,70,94,504
+494291,Ibrahim Maza,Algeria,ALG,MF,141,79,240
+390259,Weston Mckennie,USA,USA,MF,220,79,117
+430097,Ryan Christie,Scotland,SCO,MF,35,83,681
+481610,Elliot Anderson,England,ENG,MF,445,89,14
+390238,Tyler Adams,USA,USA,MF,231,91,105
+494313,Yannick Semedo,Cabo Verde,CPV,MF,35,77,681
+489523,Armin Gigovic,Bosnia and Herzegovina,BIH,MF,24,71,759
+494314,Telmo Arcanjo,Cabo Verde,CPV,MF,14,86,843
+441088,Nicolas Seiwald,Austria,AUT,MF,153,92,213
+391646,Ritsu Doan,Japan,JPN,MF,105,85,356
+402898,Nicolas De La Cruz,Uruguay,URU,MF,55,82,572
+379939,Nabil Bentaleb,Algeria,ALG,MF,280,91,65
+494248,Thalente Mbatha,South Africa,RSA,MF,97,85,396
+470759,Kevin Castano,Colombia,COL,MF,14,100,843
+403319,Nasser Aldawsari,Saudi Arabia,KSA,MF,107,86,343
+401893,Nuno Da Costa,Cabo Verde,CPV,MF,23,78,768
+395084,Hwang Inbeom,Korea Republic,KOR,MF,218,89,119
+369089,Thomas Partey,Ghana,GHA,MF,152,88,218
+428882,Rodrigo De Paul,Argentina,ARG,MF,327,92,41
+400416,Edgar Yoel Barcenas,Panama,PAN,MF,109,88,335
+411226,Djibril Sow,Switzerland,SUI,MF,97,86,396
+466359,Godfried Roemeratoe,Curaçao,CUW,MF,3,33,986
+479080,Oston Urunov,Uzbekistan,UZB,MF,10,80,890
+373344,Garry Rodrigues,Cabo Verde,CPV,MF,14,79,843
+429642,Jamal Musiala,Germany,GER,MF,104,83,361
+419436,Ahmed Alganehi,Qatar,QAT,MF,12,92,871
+419518,Erik Lira,Mexico,MEX,MF,199,91,143
+385531,Xaver Schlager,Austria,AUT,MF,138,94,247
+379886,Alireza Jahanbakhsh,IR Iran,IRN,MF,11,64,880
+477856,Jovane Cabral,Cabo Verde,CPV,MF,34,79,686
+485379,Shurandy Sambo,Curaçao,CUW,DF,3,100,986
+429608,Seol Youngwoo,Korea Republic,KOR,DF,123,92,285
+402895,Matias Vina,Uruguay,URU,DF,29,79,726
+402921,Lisandro Martinez,Argentina,ARG,DF,450,94,12
+389876,Dayot Upamecano,France,FRA,DF,443,92,15
+403289,Takehiro Tomiyasu,Japan,JPN,DF,127,86,273
+436863,Frans Putros,Iraq,IRQ,DF,28,93,739
+371958,Derek Cornelius,Canada,CAN,DF,170,89,184
+430735,Marc Cucurella,Spain,ESP,DF,474,91,9
+491244,Torbjorn Heggem,Norway,NOR,DF,301,94,47
+419567,Callan Elliot,New Zealand,NZL,DF,6,67,947
+436612,Denzel Dumfries,Netherlands,NED,DF,179,82,174
+479316,Park Jinseob,Korea Republic,KOR,DF,52,94,584
+430147,Jack Hendry,Scotland,SCO,DF,180,95,173
+489550,Husam Abudahab,Jordan,JOR,DF,58,74,560
+433527,Abdallah Nasib,Jordan,JOR,DF,97,72,396
+477832,Sidny Lopes Cabral,Cabo Verde,CPV,DF,105,83,356
+430854,Wilfried Singo,Côte d'Ivoire,CIV,DF,92,86,420
+511015,Nathaniel Brown,Germany,GER,DF,131,88,257
+382739,Marcos Llorente,Spain,ESP,DF,152,93,218
+411443,Timothy Castagne,Belgium,BEL,DF,263,87,80
+441261,Israel Reyes,Mexico,MEX,DF,102,91,372
+494345,Dan Burn,England,ENG,DF,4,50,974
+484113,Ferdi Kadioglu,Türkiye,TUR,DF,175,92,177
+395113,Ramy Bensebaini,Algeria,ALG,DF,385,93,26
+419003,Jackson Porozo,Ecuador,ECU,DF,12,100,871
+394376,Deiver Machado,Colombia,COL,DF,23,96,768
+402925,Nahuel Molina,Argentina,ARG,DF,276,85,68
+423874,Lee Hanbeom,Korea Republic,KOR,DF,200,92,138
+430594,Roger Ibanez,Brazil,BRA,DF,22,100,779
+431200,Daniel Munoz,Colombia,COL,DF,213,91,124
+479056,Mustafa Saadoon,Iraq,IRQ,DF,1,100,1011
+346743,Shoja Khalilzadeh,IR Iran,IRN,DF,141,84,240
+403274,Hiroki Ito,Japan,JPN,DF,199,89,143
+419166,Ibrahima Konate,France,FRA,DF,34,94,686
+430707,Jules Kounde,France,FRA,DF,353,89,36
+520112,Henrik Falchener,Norway,NOR,DF,23,78,768
+384797,Ramin Rezaeian,IR Iran,IRN,DF,98,69,392
+448607,Chadi Riad,Morocco,MAR,DF,226,94,109
+433367,Omar Rekik,Tunisia,TUN,DF,93,83,411
